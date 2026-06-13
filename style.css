@@ -10,10 +10,6 @@ body {
   font-style: normal;
 }
 
-p{
-  Text-align: center;
-}
-
 H1,H3{
   Text-align: center;
   Background-color: #FF4366;
@@ -47,4 +43,12 @@ H1{
 }
 Nav {
   Margin: auto;
+}
+
+p{
+  Text-align: center;
+}
+
+li{
+  Text-align: center;
 }
