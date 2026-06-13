@@ -51,6 +51,16 @@ p{
   Text-align: center;
 }
 
+aside{
+  Text-align: right;
+}
+section{
+  Text-align: left;
+}
+
+artcle{
+  Text-align: left;
+}
 
 
 
