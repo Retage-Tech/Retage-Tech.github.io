@@ -43,23 +43,14 @@ H1{
 }
 Nav {
   Margin: auto;
+  Text-align: center;
+  Background-color: #FF4366;
 }
 
 p{
   Text-align: center;
 }
 
-ol{
-  Text-align: center;
-}
-img {
-  Text-align: center;
-}
-ul {
-  Text-align: center;
-}
 
-li {
-  Text-align: center;
-}
+
 
