@@ -47,7 +47,7 @@ H1{
   Text-align: center;
 }
 Nav {
-  Margin: auto;
+  Margin-Left: auto, white ;
   Text-align: center;
   Background-color: #FF4366;
 }
