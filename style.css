@@ -35,6 +35,11 @@ Nav li {
   Margin: 7px;
 }
 
+nav a {
+margin-left: 10%;
+}
+
+
 H1{
   Margin-top: 50px;
 }
