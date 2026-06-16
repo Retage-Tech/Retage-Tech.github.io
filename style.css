@@ -2,8 +2,9 @@
 
 body {
   background-image: linear gradient (to bottom right, #F5F5DC, #FFE7C4);
+  min-height: 100vh
   max-Width: 700px;
-  Margin: Auto;
+  Margin: 0;
   Color: #FAB36B;
   font-family: "Germania One", system-ui;
   font-weight: 400;
