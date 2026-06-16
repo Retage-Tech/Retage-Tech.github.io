@@ -4,7 +4,6 @@ body {
   background-image: url("https://img.freepik.com/premium-vector/hand-drawn-strawberry-cake-pattern_915156-34.jpg?semt=ais_hybrid&w=740&q=80");
   background-repeat: repeat-x;
   background-repeat: repeat-y;
-  Opacity: 0.8;
   max-Width: 700px;
   Margin: Auto;
   Color: #FAB36B;
@@ -45,13 +44,9 @@ margin-left: 10%;
 
 H1{
   Margin-top: 50px;
-  Background-color: white;
-  Opacity: 0.6;
 }
  H2{
   Text-align: center;
-  Background-color: white;
-  Opacity: 0.6;
 }
 Nav {
   Margin: auto, ;
@@ -61,18 +56,6 @@ Nav {
 
 p{
   Text-align: center;
-  Background-color: white;
-  Opacity: 0.6;
-}
-
-ol{
-   Background-color: white;
-   Opacity: 0.6;
-}
-
-il{
-  Background-color: white;
-  Opacity: 0.6;
 }
 
 img {
