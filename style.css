@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Festive&family=Germania+One&display=swap');
 
 body {
-  background-image: url("https://img.freepik.com/premium-vector/hand-drawn-strawberry-cake-pattern_915156-34.jpg?semt=ais_hybrid&w=740&q=80");
-  background-repeat: repeat-x;
-  background-repeat: repeat-y;
+  background-color: beige;
   max-Width: 700px;
   Margin: Auto;
   Color: #FAB36B;
