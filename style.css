@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Festive&family=Germania+One&display=swap');
 
 body {
-  background-image: linear gradient (to bottom right, beige, #FFE7C4);
+  background-image: linear gradient (to bottom right, #F5F5DC, #FFE7C4);
   max-Width: 700px;
   Margin: Auto;
   Color: #FAB36B;
