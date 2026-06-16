@@ -1,10 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Festive&family=Germania+One&display=swap');
 
 body {
-  background-image: linear gradient (to bottom right, #F5F5DC, #FFE7C4);
-  min-height: 100vh
+  background-image: beige, url("https://images.all-free-download.com/images/graphicwebp/fruit_cakes_background_3d_multicolored_repeating_design_6830624.webp"), repeat;
   max-Width: 700px;
-  Margin: 0;
+  Margin: auto;
   Color: #FAB36B;
   font-family: "Germania One", system-ui;
   font-weight: 400;
