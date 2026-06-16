@@ -65,6 +65,16 @@ p{
   opacity: 0.3;
 }
 
+ol{
+   Background-color: white;
+   Opacity: 0.3;
+}
+
+il{
+  Background-color: white;
+  Opacity: 0.3;
+}
+
 img {
    Text-align: center;
    border: 5px solid #FF4366;
