@@ -46,12 +46,12 @@ margin-left: 10%;
 H1{
   Margin-top: 50px;
   Background-color: white;
-  opacity: 0.3;
+  opacity: 0.6;
 }
  H2{
   Text-align: center;
   Background-color: white;
-  opacity: 0.3;
+  opacity: 0.6;
 }
 Nav {
   Margin: auto, ;
@@ -62,17 +62,17 @@ Nav {
 p{
   Text-align: center;
   Background-color: white;
-  opacity: 0.3;
+  opacity: 0.6;
 }
 
 ol{
    Background-color: white;
-   Opacity: 0.3;
+   Opacity: 0.6;
 }
 
 il{
   Background-color: white;
-  Opacity: 0.3;
+  Opacity: 0.6;
 }
 
 img {
