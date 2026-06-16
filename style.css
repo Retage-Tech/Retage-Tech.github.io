@@ -43,9 +43,13 @@ margin-left: 10%;
 
 H1{
   Margin-top: 50px;
+  Background-color: white;
+  opacity: 0.3;
 }
  H2{
   Text-align: center;
+  Background-color: white;
+  opacity: 0.3;
 }
 Nav {
   Margin: auto, ;
@@ -55,6 +59,8 @@ Nav {
 
 p{
   Text-align: center;
+  Background-color: white;
+  opacity: 0.3;
 }
 
 img {
