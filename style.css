@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Festive&family=Germania+One&display=swap');
 
 body {
-  background-image: img("seamlesscake.webp");
+  background-image: url("file:///Users/227768/Downloads/seamlesscake.webp");
+  background-repeat: repeat-x;
   max-Width: 700px;
   Margin: Auto;
   Color: #FAB36B;
-  Background-color: beige;
   font-family: "Germania One", system-ui;
   font-weight: 400;
   font-style: normal;
