@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Festive&family=Germania+One&display=swap');
 
 body {
-  background-image: beige, url("https://images.all-free-download.com/images/graphicwebp/fruit_cakes_background_3d_multicolored_repeating_design_6830624.webp"), repeat;
+  background-color: beige;
+  background-image:, url("https://images.all-free-download.com/images/graphicwebp/fruit_cakes_background_3d_multicolored_repeating_design_6830624.webp"), repeat;
   max-Width: 700px;
   Margin: auto;
   Color: #FAB36B;
